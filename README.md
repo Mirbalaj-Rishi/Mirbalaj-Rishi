@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mirbalaj-Rishi
-- 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning Python and node.js
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in Software Engineering.
+- 🌱 I’m currently learning Python and Node.js.
+- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
