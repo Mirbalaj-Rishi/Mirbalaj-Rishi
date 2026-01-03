@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mirbalaj-Rishi
-- 👀 I’m interested in Software Engineering.
+- 👀 I’m interested in IT, Cybersecurity, and Software Engineering.
 - 🌱 I’m currently learning Python, R, C++, and Kotlin.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: rishimirbalaj@gmail.com
